@@ -2,7 +2,7 @@
 <div>
 <h2> 
   <img src="https://github-readme-stats.vercel.app/api?username=SpaaceZz&&show_icons=true&title_color=195959&icon_color=191919&text_color=da3662&bg_color=ffffff" >
-  <img align="right" height="200" width="300" alt="RickAndMorty" src="https://thumbs.gfycat.com/AlarmedInsistentGrayreefshark-size_restricted.gif">
+  <img align="right" height="200" width="335" alt="RickAndMorty" src="https://thumbs.gfycat.com/AlarmedInsistentGrayreefshark-size_restricted.gif">
 </h2>
 </div>
 <div>
