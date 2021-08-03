@@ -30,7 +30,7 @@
         width:100%;">
         <a href="https://instagram.com/r1ck_viana" alt="Instagram">
         <img align="right" height="40" width="40" src="https://raw.githubusercontent.com/SpaaceZz/SpaaceZz/main/instagramicon.svg" ></a>
-        <a href="https://www.linkedin.com/in/ricardo-viana-5809531bb/" alt="Linkedin">
+        <a href="https://www.linkedin.com/in/ricardoviana18/" alt="Linkedin">
         <img align="right" height="40" width="40" src="https://raw.githubusercontent.com/SpaaceZz/SpaaceZz/main/linkedIn.svg"></a>
     </h2>
   </div>
