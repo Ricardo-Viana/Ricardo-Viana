@@ -14,14 +14,6 @@
   <div>
     <h2>
       Currently Learning 💻: 
-        <h3>Front-End
-          <img align="center" alt="Ricardo_Viana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" 
-          style="max-width:100%;"> 
-          <img align="center" alt="Ricardo_Viana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
-          style="max-width:100%;"> 
-          <img align="center" alt="Ricardo_Viana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max- 
-          width:100%;">
-        </h3>
         <h3> Back-End
           <img align="center" alt="SpaaceZz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"                 style="max- 
           width:100%;">
