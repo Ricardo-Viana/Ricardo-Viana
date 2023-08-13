@@ -24,7 +24,7 @@
           <img align="center" alt="SpaaceZz-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"                   style="max- 
           width:100%;">
         </h3>
-        <a href="https://instagram.com/r1ck_viana" alt="Instagram">
+        <a href="https://instagram.com/ricardouviana" alt="Instagram">
         <img align="right" height="40" width="40" src="https://raw.githubusercontent.com/SpaaceZz/SpaaceZz/main/instagramicon.svg" ></a>
         <a href="https://www.linkedin.com/in/ricardoviana18/" alt="Linkedin">
         <img align="right" height="40" width="40" src="https://raw.githubusercontent.com/SpaaceZz/SpaaceZz/main/linkedIn.svg"></a>
